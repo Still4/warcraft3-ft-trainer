@@ -1,4 +1,4 @@
-# Warcraft III: The Frozen Throne GAME TRAINER
+# Warcraft III: The Frozen Throne Game Trainer
 ## Note
 This repository just for education. Application is working, but unfortunately it works with particular version of game and I don't remember this version and which patches were applied. I believe it was 1.24a or something like that. This app won't work with another version of game, because app using few absolute addresses of process, which are different for each version of application.
 
